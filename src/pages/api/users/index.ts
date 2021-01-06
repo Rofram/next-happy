@@ -1,4 +1,3 @@
-import '../../../database/connection';
 
 export default (req, res) => {
   console.log(req.query);
